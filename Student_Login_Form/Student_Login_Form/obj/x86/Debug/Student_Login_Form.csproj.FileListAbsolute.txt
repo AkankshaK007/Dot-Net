@@ -1,0 +1,11 @@
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.exe
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.pdb
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.csprojResolveAssemblyReference.cache
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.frm_Login_Form.resources
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.Properties.Resources.resources
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.csproj.GenerateResource.Cache
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.exe
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.pdb
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.exe.config
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.frm_Add_New_Student.resources
+D:\Akanksha Kanase\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.frm_View_All_Student_List.resources
