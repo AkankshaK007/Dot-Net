@@ -1,0 +1,12 @@
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.csprojResolveAssemblyReference.cache
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.Frm_Add_New_Student.resources
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.Frm_Login.resources
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.Properties.Resources.resources
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.csproj.GenerateResource.Cache
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\bin\Debug\SGM_Student_Mgt_System.exe
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\bin\Debug\SGM_Student_Mgt_System.pdb
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.exe
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.pdb
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.Frm_Search_Student.resources
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\obj\x86\Debug\SGM_Student_Mgt_System.Frm_View_Student_List.resources
+D:\Assignment No.2\SGM_Student_Mgt_System\SGM_Student_Mgt_System\bin\Debug\SGM_Student_Mgt_System.exe.config
