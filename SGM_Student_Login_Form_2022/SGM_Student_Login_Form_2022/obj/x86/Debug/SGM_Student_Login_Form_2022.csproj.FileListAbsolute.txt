@@ -1,0 +1,12 @@
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.frm_Login_Form.resources
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.Properties.Resources.resources
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.csproj.GenerateResource.Cache
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\bin\Debug\SGM_Student_Login_Form_2022.exe
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\bin\Debug\SGM_Student_Login_Form_2022.pdb
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.exe
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.pdb
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.csprojResolveAssemblyReference.cache
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.frm_Add_New_Student.resources
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.frm_Search_Student_Details.resources
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\obj\x86\Debug\SGM_Student_Login_Form_2022.frm_View_Student_List.resources
+D:\Assignment No.3\SGM_Student_Login_Form_2022\SGM_Student_Login_Form_2022\bin\Debug\SGM_Student_Login_Form_2022.exe.config
