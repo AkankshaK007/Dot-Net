@@ -1,0 +1,15 @@
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_Add_New_Student.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_Login.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_Search_Student.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_Update_Student_Details.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_View_Student_List.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.MDI_SGM_Addmission_System.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.Properties.Resources.resources
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.csproj.GenerateResource.Cache
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\bin\Debug\SGM_Addmission_System.exe
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\bin\Debug\SGM_Addmission_System.pdb
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.exe
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.pdb
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.csprojResolveAssemblyReference.cache
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\bin\Debug\SGM_Addmission_System.exe.config
+D:\Assignment no.4\SGM_Addmission_System\SGM_Addmission_System\obj\x86\Debug\SGM_Addmission_System.frm_Add_Course.resources
