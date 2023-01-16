@@ -1,0 +1,8 @@
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\bin\Debug\Student_Mgt_System_2023.exe
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\bin\Debug\Student_Mgt_System_2023.pdb
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.frm_My_Controls.resources
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.Properties.Resources.resources
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.csproj.GenerateResource.Cache
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.exe
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.pdb
+D:\Assignment No.5\Student_Mgt_System_2023\Student_Mgt_System_2023\obj\x86\Debug\Student_Mgt_System_2023.csprojResolveAssemblyReference.cache
